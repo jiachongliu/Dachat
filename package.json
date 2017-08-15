@@ -1,0 +1,8 @@
+{
+  "name": "Dachat",
+  "version": "0.0.1",
+  "description": "my first chat room.",
+  "dependencies": {
+    "express": "^4.10.2"
+  }
+}
